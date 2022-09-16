@@ -1,3 +1,4 @@
-# new read me 
+# welcome to my page
 
-g
+nothing but the best
+## ths is what you see
